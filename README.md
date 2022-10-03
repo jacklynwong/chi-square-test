@@ -9,6 +9,8 @@ This test compares the distribution of a segment’s categorical data to that of
 Example: Does the distribution of Claimed Games for aged 40+ PG users match that of the entire PG population?
 
 The segment for aged 40+ PG users has the below Game Title Claims distribution vs the total population. Aged 40+ PG users had 3k Apex Legends game claims. The total population had 8k game claims.
+
+
 ![image](https://user-images.githubusercontent.com/114509199/193664236-d47ec514-5ba7-460f-85c3-c08ec2ee4906.png)
 
 
