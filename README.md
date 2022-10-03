@@ -1,9 +1,9 @@
-# chi-square-test
+<h1>Chi-Squared Tests</h1>
 
-Chi-Squared Tests
 Chi-Squared tests are used with categorical variables. These variables don’t have a numerical value so we compare the variable counts instead of the actual value of the variable themselves.
 
-Chi-Squared Goodness-of-Fit Test
+<h1>Chi-Squared Goodness-of-Fit Test</h1>
+
 This test compares the distribution of a segment’s categorical data to that of the entire population.
 
 Example: Does the distribution of Claimed Games for aged 40+ PG users match that of the entire PG population?
@@ -24,16 +24,21 @@ In our example, we're using a 95% Confidence Level and the chi-squared statistic
 
 
 
+![image](https://user-images.githubusercontent.com/114509199/193664504-ba152a39-5e18-4db3-8908-3efc9ddfe88f.png)
 
 
 
-Chi-Squared Test of Independence
+
+
+<h1>Chi-Squared Test of Independence</h1>
 This test if 2 categorical variables are related or independent. 
 
 Example: Does birth month relate to game genre claimed?
 
 Consider the following data of birth months and game genre claims.
 
+![image](https://user-images.githubusercontent.com/114509199/193664658-03bce477-01ed-4e7f-af9e-dbb9c03d487c.png)
+
 
 Calculate expected counts of each cell by multiplying the row total for the cell by the column total, then dividing by the total number of observations. Then use the chi-squared formula to see if the variables are independent.
-![image](https://user-images.githubusercontent.com/114509199/193664201-fa82bce1-a853-4fd2-b48e-6b0a8d01dca3.png)
+
